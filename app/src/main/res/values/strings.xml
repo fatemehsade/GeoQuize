@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuize</string>
+    <string name="true_button">بله</string>
+    <string name="false_button">خیر</string>
+    <string name="question_australia">پاسترالیا بزرگترین کشور جهان است</string>
+    <string name="correct_toast">پاسخ شما صحیح است</string>
+    <string name="incorrect_toast">پاسخ شما نادرست می باشد</string>
+    <string name="next_button">بعدی</string>
+    <string name="prev_button">قبلی</string>
+    <string name="question_american">امریکا بزرگترین قاره جهان است</string>
+    <string name="question_ocean">اقیانوس ارام کوچکترین اقیانوس جهان استد</string>
+    <string name="question_asia">اسیا در نمیکره جنوبی قرار دارد</string>
+    <string name="question_africa">سرچشمه رود نیل در مصر است</string>
+
+
+
+
+</resources>
